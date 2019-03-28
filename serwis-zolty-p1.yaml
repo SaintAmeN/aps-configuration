@@ -1,1 +1,3 @@
+server:
+  port: 8091
 slowa: czerwony,zielony,niebieski,fioletowy,rozowy

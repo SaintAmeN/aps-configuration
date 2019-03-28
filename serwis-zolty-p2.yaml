@@ -1,1 +1,3 @@
+server:
+  port: 8092
 slowa: gora,dol,lewo,prawo,polnoc,poludnie,wschod,zachod
